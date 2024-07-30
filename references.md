@@ -1,1 +1,6 @@
-First, Second, Third. No clue what else was added.
+# References
+
+* octocat 1 😈
+* First
+* Second
+* Third
